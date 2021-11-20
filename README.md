@@ -31,6 +31,7 @@ Hello!I am **EnderFall**,You most Likely known me From Discord or Youtube.Curren
 
 The Order in the Above Most Likely does not determined on how high the position Yet!
 
+If you would like to ask some Question,Feel free to open an `Issues` and Ask a Question There!
 That's Pretty Much It For now!If You would like to Apply,feel free to DM Me on Discord and I Will Interview You!Here's My Contact Information:
 
 ### Discord: **EnderFall#0005**
