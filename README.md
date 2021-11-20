@@ -28,6 +28,7 @@ Hello!I am **EnderFall**,You most Likely known me From Discord or Youtube.Curren
 > 7. Artist/Drawer(For Our Bot/Project Profile,etc)
 > 8. Maintaner(Maintained The Bot)
 > 9. More Coming
+
 The Order in the Above Most Likely does not determined on how high the position Yet!
 
 That's Pretty Much It For now!If You would like to Apply,feel free to DM Me on Discord and I Will Interview You!Here's My Contact Information:
