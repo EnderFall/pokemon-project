@@ -38,6 +38,6 @@ That's Pretty Much It For now!If You would like to Apply,feel free to DM Me on D
 ### Discord: **EnderFall#0005**
 ### Project Email: ***Worked On***
 
-[FAQ](https://github.com/EnderFall/pokemon-project/blob/main/faq.md)
-
+# [FAQ](https://github.com/EnderFall/pokemon-project/blob/main/faq.md)
+# [Presentation](https://github.com/EnderFall/pokemon-project/tree/main/presentation)
 ***This Readme Docs Will Get Updated Overtime With Remaining Positions***
