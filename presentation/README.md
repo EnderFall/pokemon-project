@@ -3,9 +3,7 @@
 ## Pokemon Unite
 
 **Unite License Preview**
-![Pokemon Preview](https://github.com/EnderFall/pokemon-project/blob/main/presentation/Screenshot%202021-11-23%20170343.png)
-
-![Pokemon Preview2](https://github.com/EnderFall/pokemon-project/blob/main/presentation/Screenshot%202021-11-23%20172936.png)
+![Pokemon Preview](https://github.com/EnderFall/pokemon-project/blob/main/presentation/Screenshot%202021-11-26%20042737.png)
 
 ![Pokemon Preview3](https://github.com/EnderFall/pokemon-project/blob/main/presentation/Screenshot%202021-11-23%20172243.png)
 
