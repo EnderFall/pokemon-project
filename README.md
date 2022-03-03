@@ -5,6 +5,8 @@ Information about my Pokemon Bot Project!
 
 Hello!I am **EnderFall**,You most Likely known me From Discord or Youtube.Currently im looking for volunteer to help out in my Pokemon Project!
 
+# We are now Accepting Members To Beta Test and Give Suggestion To The Bots as Well as Volunteer! [OUR DISCORD](https://discord.gg/NFTDYEdSmW)
+
 ## What's The Project About?
 > Well,Simple.Its a **Rich Pokemon Utilities Discord Bot** That Provide Docs For Pokemon!This Includes Every Pokemon.Currently what i have in store is The Game **Pokemon Unite**,**General Pokemon Docs(Such as the anime and Story,etc)**,And Im Trying to do More Pokemon Games even if its an old one or a new one!
 
